@@ -1,0 +1,13 @@
+{
+   "version":"0.10.3",
+   "description":"",
+   "homepage":"https://www.oramainteractive.com/",
+   "license":"",
+   "extension":{
+      "AppImage":{
+         "url":"https://github.com/Orama-Interactive/Pixelorama/releases/download/v0.10.3/Pixelorama.Linux-64bit.tar.gz",
+         "hash":"",
+         "extract_dir":""
+      }
+   },
+}

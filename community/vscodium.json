@@ -1,0 +1,13 @@
+{
+   "version":"1.74.3.23010",
+   "description":"",
+   "homepage":"https://vscodium.com/",
+   "license":"",
+   "extension":{
+      "AppImage":{
+         "url":"https://github.com/VSCodium/vscodium/releases/download/1.74.3.23010/VSCodium-1.74.3.23010.glibc2.17-x86_64.AppImage",
+         "hash":"",
+         "extract_dir":""
+      }
+   },
+}
