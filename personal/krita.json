@@ -1,1 +1,11 @@
-{"version":"5.1.5","description":"Krita is a professional FREE and open source painting program.","homepage":"https://krita.org","license":"","extension":{"AppImage":{"url":"https://mirror.faigner.de/kde/ftp/stable/krita/5.1.5/krita-5.1.5-x86_64.appimage"}}}
+{
+  "version": "5.1.5",
+  "description": "Krita is a professional FREE and open source painting program.",
+  "homepage": "https://krita.org",
+  "license": "",
+  "extension": {
+    "AppImage": {
+      "url": "https://mirror.faigner.de/kde/ftp/stable/krita/5.1.5/krita-5.1.5-x86_64.appimage"
+    }
+  }
+}

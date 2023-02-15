@@ -1,1 +1,11 @@
-{"version":"3.2.4","description":"Free, open source, cross-platform audio software","homepage":"https://www.audacityteam.org/","license":"","extension":{"AppImage":{"url":"https://objects.githubusercontent.com/github-production-release-asset-2e65be/32921736/3cf2798f-f977-4fa7-9bd1-8c26b2bf389a?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230215%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230215T110406Z&X-Amz-Expires=300&X-Amz-Signature=fed0ea6a7300127d041747f8b18553ee3ec9e8a1fe3eb7a7361d82c57193b0b9&X-Amz-SignedHeaders=host&actor_id=86297633&key_id=0&repo_id=32921736&response-content-disposition=attachment%3B%20filename%3Daudacity-linux-3.2.4-x64.AppImage&response-content-type=application%2Foctet-stream"}}}
+{
+  "version": "3.2.4",
+  "description": "Free, open source, cross-platform audio software",
+  "homepage": "https://www.audacityteam.org/",
+  "license": "",
+  "extension": {
+    "AppImage": {
+      "url": "https://github.com/audacity/audacity/releases/download/Audacity-3.2.4/audacity-linux-3.2.4-x64.AppImage"
+    }
+  }
+}

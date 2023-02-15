@@ -1,1 +1,11 @@
-{"version":"2.6.2","description":"A Native GOG and Epic Games Launcher","homepage":"https://heroicgameslauncher.com/","license":"GPL-3.0","extension":{"AppImage":{"url":"https://objects.githubusercontent.com/github-production-release-asset-2e65be/325550081/8fa7d651-a872-4f37-b9c6-d20663b915ee?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230215%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230215T111413Z&X-Amz-Expires=300&X-Amz-Signature=c98f189ff74df0e36d869eb5853919a9236fc1be512fe0d9bfb4ea22d8790f41&X-Amz-SignedHeaders=host&actor_id=86297633&key_id=0&repo_id=325550081&response-content-disposition=attachment%3B%20filename%3DHeroic-2.6.2.AppImage&response-content-type=application%2Foctet-stream"}}}
+{
+  "version": "2.6.2",
+  "description": "A Native GOG and Epic Games Launcher",
+  "homepage": "https://heroicgameslauncher.com/",
+  "license": "GPL-3.0",
+  "extension": {
+    "AppImage": {
+      "url": "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/download/v2.6.2/Heroic-2.6.2.AppImage"
+    }
+  }
+}

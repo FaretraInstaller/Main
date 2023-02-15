@@ -1,1 +1,11 @@
-{"version":"3.1.5","description":"GitHub Desktop is an open source Electron-based GitHub app","homepage":"https://github.com/shiftkey/desktop","license":"MIT license ","extension":{"AppImage":{"url":"https://github.com/shiftkey/desktop/releases/download/release-3.1.5-linux2/GitHubDesktop-linux-3.1.5-linux2.AppImage"}}}
+{
+  "version": "3.1.5",
+  "description": "GitHub Desktop is an open source Electron-based GitHub app",
+  "homepage": "https://github.com/shiftkey/desktop",
+  "license": "MIT ",
+  "extension": {
+    "AppImage": {
+      "url": "https://github.com/shiftkey/desktop/releases/download/release-3.1.5-linux2/GitHubDesktop-linux-3.1.5-linux2.AppImage"
+    }
+  }
+}

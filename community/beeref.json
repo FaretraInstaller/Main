@@ -1,1 +1,11 @@
-{"version":"0.2.0","description":"BeeRef Reference Image Viewer ","homepage":"https://beeref.org/","license":"GPL-3.0 license","extension":{"AppImage":{"url":"https://github.com/rbreu/beeref/releases/download/v0.2.0/BeeRef-0.2.0-linux"}}}
+{
+  "version": "0.2.0",
+  "description": "BeeRef Reference Image Viewer ",
+  "homepage": "https://beeref.org/",
+  "license": "GPL-3.0",
+  "extension": {
+    "AppImage": {
+      "url": "https://github.com/rbreu/beeref/releases/download/v0.2.0/BeeRef-0.2.0-linux"
+    }
+  }
+}

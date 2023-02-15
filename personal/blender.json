@@ -1,1 +1,11 @@
-{"version":"3.4.1","description":"","homepage":"https://www.blender.org","license":"GNU GPL","extension":{"AppImage":{"url":"https://ftp.halifax.rwth-aachen.de/blender/release/Blender3.4/blender-3.4.1-linux-x64.tar.xz"}}}
+{
+  "version": "3.4.1",
+  "description": "",
+  "homepage": "https://www.blender.org",
+  "license": "GNU GPL",
+  "extension": {
+    "AppImage": {
+      "url": "https://ftp.halifax.rwth-aachen.de/blender/release/Blender3.4/blender-3.4.1-linux-x64.tar.xz"
+    }
+  }
+}

@@ -1,1 +1,11 @@
-{"version":"1.23.1","description":"Open Source Continuous File Synchronization ","homepage":"https://syncthing.net/","license":"MPL-2.0 license ","extension":{"AppImage":{"url":"https://objects.githubusercontent.com/github-production-release-asset-2e65be/14712850/065e9884-fcb4-4226-83eb-060fe737b817?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230215%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230215T110212Z&X-Amz-Expires=300&X-Amz-Signature=0ee86ab754ea3bece01e3c21b77ad5b7bed6804f554339d835a2b72ac31d4fd0&X-Amz-SignedHeaders=host&actor_id=86297633&key_id=0&repo_id=14712850&response-content-disposition=attachment%3B%20filename%3Dsyncthing-linux-amd64-v1.23.1.tar.gz&response-content-type=application%2Foctet-stream"}}}
+{
+  "version": "1.23.1",
+  "description": "Open Source Continuous File Synchronization ",
+  "homepage": "https://syncthing.net/",
+  "license": "MPL-2.0 ",
+  "extension": {
+    "AppImage": {
+      "url": "https://github.com/syncthing/syncthing/releases/download/v1.23.1/syncthing-linux-amd64-v1.23.1.tar.gz"
+    }
+  }
+}
